@@ -36,3 +36,5 @@ dist
 stats.html
 
 .eslintcache
+/dist
+/node_modules
